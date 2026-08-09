@@ -47,6 +47,7 @@
 - Logos de clientes atualizadas conforme a nova ordem numerada: seis principais e vinte secundárias.
 - Três novos cases adicionados antes dos cases já publicados, com vídeos incorporados quando disponíveis.
 - Exportação estática compatível com GitHub Pages preparada, preservando os arquivos-fonte e a documentação do projeto.
+- Repositório público criado em `https://github.com/YouAlcantara/portfolio` e site publicado em `https://youalcantara.github.io/portfolio/`, a partir da pasta `docs` da branch `main`.
 
 ## Problemas encontrados
 
