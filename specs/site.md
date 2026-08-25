@@ -28,10 +28,14 @@ Landing page única. Os projetos abrem em lightbox, sem navegação para página
 
 1. Abertura/hero.
 2. Projetos selecionados em sequência editorial, na ordem definida em `@cases.md`.
-3. Arquivo de outros projetos em grade de três cards por linha no desktop.
-4. Experiência.
-5. Habilidades.
-6. Contato.
+3. Na mídia, com artigos e papers em grade e conteúdo completo em lightbox.
+4. Arquivo de outros projetos em grade de três cards por linha no desktop, quando houver conteúdo suficiente.
+5. Marcas atendidas.
+6. Projeto Futuros Sonhadores.
+7. Experiência.
+8. Formação.
+9. Habilidades.
+10. Contato.
 
 ## Projetos
 
@@ -51,6 +55,8 @@ Landing page única. Os projetos abrem em lightbox, sem navegação para página
 - Lightbox acessível, fechável por botão, clique externo e tecla Escape.
 - Formulário de contato destinado a `eu.yurialcantara@gmail.com`.
 - Estrutura de conteúdo preparada para crescimento.
+- Artigos abrem em lightbox e oferecem links para paper e/ou publicação completa quando disponíveis.
+- PDFs dos papers são armazenados junto aos arquivos públicos do site.
 - Integração definitiva do formulário ainda depende de definir serviço compatível com Hostinger; `mailto:` é aceitável apenas no preview.
 
 ## Chamadas para ação

@@ -26,6 +26,11 @@
 - O e-mail de destino do formulário não deve aparecer visualmente na seção de contato.
 - A versão atual em inglês foi aprovada para publicação em 9 de agosto de 2026.
 - Publicação autorizada em repositório público GitHub chamado `portfolio`, usando GitHub Pages.
+- Nova estrutura aprovada para o próximo preview: cases, Na mídia, marcas atendidas, Futuros Sonhadores, experiência, formação, habilidades e contato.
+- Formação acadêmica deve usar o perfil do LinkedIn de Yuri como fonte.
+- Seção Na mídia reúne sete conteúdos em cards e lightbox; papers e artigos recebem seus respectivos CTAs.
+- Seção Futuros Sonhadores adota referências visuais do projeto e inclui texto, vídeo incorporado e link para o site.
+- O vídeo `https://youtu.be/chO95vrCNGg` passa a ser a capa do case Bob’s/OAB.
 
 ## Decisões rejeitadas
 
@@ -48,6 +53,7 @@
 - Três novos cases adicionados antes dos cases já publicados, com vídeos incorporados quando disponíveis.
 - Exportação estática compatível com GitHub Pages preparada, preservando os arquivos-fonte e a documentação do projeto.
 - Repositório público criado em `https://github.com/YouAlcantara/portfolio` e site publicado em `https://youalcantara.github.io/portfolio/`, a partir da pasta `docs` da branch `main`.
+- Sete imagens de conteúdos, três PDFs e materiais visuais do Futuros Sonhadores foram reunidos localmente para o novo preview; a versão publicada ainda não foi alterada.
 
 ## Problemas encontrados
 
