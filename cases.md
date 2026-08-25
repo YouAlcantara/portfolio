@@ -38,7 +38,7 @@ Este arquivo é a fonte de verdade dos projetos do portfólio. Sempre que o site
 ## 02 — BOB’S / OAB
 
 **Imagem:** `01 - Fotos e Imagens/Cases/Bobs-OAB/Bobs_OAB_Board-Effie-Apoio 1 1.jpg`  
-**Vídeo:** pendente
+**Vídeo:** https://youtu.be/chO95vrCNGg
 
 **Resumo:** Como o Bob’s entrou na briga dos gigantes e transformou uma disputa sobre cópia em defesa pública do Milk Shake original.
 
