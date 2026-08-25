@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Portfólio premium, clicável e evolutivo de Yuri Alcantara, Diretor de Planejamento e Estratégia com mais de 20 anos de experiência em comunicação. Deve conquistar oportunidades profissionais, atrair consultorias, consolidar autoridade e apresentar trabalhos produzidos.
+Portfólio premium, clicável e evolutivo de Yuri Alcantara, Diretor de Planejamento e Estratégia com mais de 15 anos de experiência em comunicação. Deve conquistar oportunidades profissionais, atrair consultorias, consolidar autoridade e apresentar trabalhos produzidos.
 
 ## Público-alvo
 

@@ -31,6 +31,7 @@
 - Seção Na mídia reúne sete conteúdos em cards e lightbox; papers e artigos recebem seus respectivos CTAs.
 - Seção Futuros Sonhadores adota referências visuais do projeto e inclui texto, vídeo incorporado e link para o site.
 - O vídeo `https://youtu.be/chO95vrCNGg` passa a ser a capa do case Bob’s/OAB.
+- A experiência profissional deve ser apresentada como “mais de 15 anos de experiência” em português e “over 15 years of experience” em inglês, substituindo as referências anteriores a 20 anos ou duas décadas.
 
 ## Decisões rejeitadas
 
@@ -54,6 +55,7 @@
 - Exportação estática compatível com GitHub Pages preparada, preservando os arquivos-fonte e a documentação do projeto.
 - Repositório público criado em `https://github.com/YouAlcantara/portfolio` e site publicado em `https://youalcantara.github.io/portfolio/`, a partir da pasta `docs` da branch `main`.
 - Sete imagens de conteúdos, três PDFs e materiais visuais do Futuros Sonhadores foram reunidos localmente para o novo preview; a versão publicada ainda não foi alterada.
+- Bio da abertura e introdução da experiência atualizadas para “mais de 15 anos”, com equivalentes em inglês e documentação alinhada.
 
 ## Problemas encontrados
 
