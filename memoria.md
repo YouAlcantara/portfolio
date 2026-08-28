@@ -32,6 +32,9 @@
 - Seção Futuros Sonhadores adota referências visuais do projeto e inclui texto, vídeo incorporado e link para o site.
 - O vídeo `https://youtu.be/chO95vrCNGg` passa a ser a capa do case Bob’s/OAB.
 - A experiência profissional deve ser apresentada como “mais de 15 anos de experiência” em português e “over 15 years of experience” em inglês, substituindo as referências anteriores a 20 anos ou duas décadas.
+- Nova arquitetura aprovada: abertura, perfil profissional, resultados de grande impacto, projetos, Na mídia, Palestras, marcas atendidas, Forças para agências, Futuros Sonhadores, experiência, formação, habilidades e contato.
+- Registros fotográficos públicos e gratuitos podem ser baixados para a seção Palestras; nenhum conteúdo pago deve ser usado.
+- Traduções em inglês das novas seções, títulos e habilidades aprovadas para publicação em 28 de agosto de 2026.
 
 ## Decisões rejeitadas
 
@@ -56,6 +59,7 @@
 - Repositório público criado em `https://github.com/YouAlcantara/portfolio` e site publicado em `https://youalcantara.github.io/portfolio/`, a partir da pasta `docs` da branch `main`.
 - Sete imagens de conteúdos, três PDFs e materiais visuais do Futuros Sonhadores foram reunidos localmente para o novo preview; a versão publicada ainda não foi alterada.
 - Bio da abertura e introdução da experiência atualizadas para “mais de 15 anos”, com equivalentes em inglês e documentação alinhada.
+- Preview local reorganizado com perfil profissional, carrossel de resultados, Palestras e Forças para agências; títulos de seção e habilidades passaram a ter versões localizadas em inglês.
 
 ## Problemas encontrados
 

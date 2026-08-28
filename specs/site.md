@@ -27,15 +27,19 @@ Landing page única. Os projetos abrem em lightbox, sem navegação para página
 ## Seções
 
 1. Abertura/hero.
-2. Projetos selecionados em sequência editorial, na ordem definida em `@cases.md`.
-3. Na mídia, com artigos e papers em grade e conteúdo completo em lightbox.
-4. Arquivo de outros projetos em grade de três cards por linha no desktop, quando houver conteúdo suficiente.
-5. Marcas atendidas.
-6. Projeto Futuros Sonhadores.
-7. Experiência.
-8. Formação.
-9. Habilidades.
-10. Contato.
+2. Perfil profissional.
+3. Resultados de grande impacto em carrossel de big numbers.
+4. Projetos selecionados em sequência editorial, na ordem definida em `@cases.md`.
+5. Na mídia, com artigos e papers em grade e conteúdo completo em lightbox.
+6. Palestras e masterclasses em cards clicáveis com registros públicos.
+7. Arquivo de outros projetos em grade de três cards por linha no desktop, quando houver conteúdo suficiente.
+8. Marcas atendidas.
+9. Forças para agências.
+10. Projeto Futuros Sonhadores.
+11. Experiência.
+12. Formação.
+13. Habilidades.
+14. Contato.
 
 ## Projetos
 
@@ -56,6 +60,8 @@ Landing page única. Os projetos abrem em lightbox, sem navegação para página
 - Formulário de contato destinado a `eu.yurialcantara@gmail.com`.
 - Estrutura de conteúdo preparada para crescimento.
 - Artigos abrem em lightbox e oferecem links para paper e/ou publicação completa quando disponíveis.
+- Cards de palestras exibem foto, título, tipo, ano e link para registros públicos.
+- Resultados de impacto usam carrossel com logo, número principal e indicadores complementares.
 - PDFs dos papers são armazenados junto aos arquivos públicos do site.
 - Integração definitiva do formulário ainda depende de definir serviço compatível com Hostinger; `mailto:` é aceitável apenas no preview.
 
